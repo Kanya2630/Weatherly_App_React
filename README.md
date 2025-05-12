@@ -24,9 +24,9 @@ To run this project locally, follow these steps:
   
 2. Navigate to the project directory:cd <your-project-name>
 
-3.Install dependencies:npm install
+  3.Install dependencies:npm install
 
-4.Run the development server:npm run dev
+  4.Run the development server:npm run dev
 
 5. Open your browser and go to: http://localhost:5173
 
